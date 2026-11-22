@@ -30,7 +30,6 @@ for analysis and visualization.
     ├── graphs
     │   ├── annual_stats.png
     │   ├── hist.png
-    │   ├── historical_probability.png
     │   ├── percentage_change.png
     │   ├── rol_volatility.png
     │   └── timeseries.png
