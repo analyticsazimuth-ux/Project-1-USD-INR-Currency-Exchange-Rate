@@ -14,16 +14,18 @@ This study uses quantitative descriptive statistical methods to examine historic
 the USD/INR exchange rate. Pandas, Numpy, Matplotlib, Statsmodels, scipy, seaborn python libraries are used
 for analysis and visualization.
 
-Tree Structure of this folder:
+## Tree Structure of this folder:
+```text
 ├── analysis.ipynb 
 ├── data
-│   └── data.xlsx
+│   └── data.xlsx
 ├── graphs
-│   ├── annual_stats.png
-│   ├── hist.png
-│   ├── historical_probability.png
-│   ├── percentage_change.png
-│   ├── rol_volatility.png
-│   └── timeseries.png
-├── output
-│   ├── analysis.pdf
+│   ├── annual_stats.png
+│   ├── hist.png
+│   ├── historical_probability.png
+│   ├── percentage_change.png
+│   ├── rol_volatility.png
+│   └── timeseries.png
+└── output
+    └── analysis.pdf
+```
