@@ -25,7 +25,6 @@ for analysis and visualization.
 
 ## Tree Structure of this folder:
 ```text
-└── PROJECT1
     ├── data
     │   └── data.xlsx
     ├── graphs
