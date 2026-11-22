@@ -1,4 +1,3 @@
-![A timeseries graph](graphs/timeseries.png)
 # Project-1-USD-INR-Currency-Exchange-Rate
 A Statistical Study of USD/INR Currency Exchange Rate to understand it's behavior.
 
@@ -13,6 +12,8 @@ https://dbie.rbihub.in/statistics?table=financial_markets.r691_daily_interbank_f
 This study uses quantitative descriptive statistical methods to examine historical movements and volatility in
 the USD/INR exchange rate. Pandas, Numpy, Matplotlib, Statsmodels, scipy, seaborn python libraries are used
 for analysis and visualization.
+
+![A timeseries graph](graphs/timeseries.png)
 
 ## Tree Structure of this folder:
 ```text
