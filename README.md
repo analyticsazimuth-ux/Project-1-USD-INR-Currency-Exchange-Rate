@@ -48,7 +48,7 @@ You will need Python 3.10 or later and Jupyter Notebook installed on your comput
 
 Step 1: Clone the repository
 ```
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone Project-1-USD-INR-Currency-Exchange-Rate
 ```
 Step 2: Navigate to the project directory
 ```
